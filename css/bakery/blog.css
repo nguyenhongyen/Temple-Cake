@@ -1,0 +1,35 @@
+.blog{
+    padding:40px;
+}
+.article:hover{
+    text-decoration: none;
+   
+
+}
+.article-hover{
+  
+    border-radius: 5px;
+ 
+    animation-delay: 0.04s;
+}
+.article-hover:hover{
+    box-shadow: rgb(236, 221, 221) 0px -1px 8px 2px;
+    
+}
+.content-article{
+    padding:5px;
+    font-size: 17px;
+    color: black;
+}
+
+.content-article .heading-article{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.content-article .heading-article:hover{
+    color: rgb(233, 67, 38);
+}
+.content-article .date-article{
+    padding:3px 0px;
+}
